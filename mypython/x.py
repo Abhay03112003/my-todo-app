@@ -61,7 +61,7 @@ while True:
         except IndexError:
             print("There is no item with that number.")
             continue
-
+ 
     elif user_action.startswith("exit"):
         break
 
