@@ -1,4 +1,3 @@
-I like walking
-wwe
-goto running
-Master Python
+I like running
+I like cars
+I like bikes
