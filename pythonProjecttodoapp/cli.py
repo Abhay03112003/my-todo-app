@@ -1,5 +1,5 @@
 #from functions import get_todos, write_todos
-import functions
+from pythonProjecttodoapp import functions
 import time
 
 
