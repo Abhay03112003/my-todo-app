@@ -1,4 +1,7 @@
-I like running
-I like cars
-Master Python
-Master Java
+Do the laundry.
+Return the books to the library.
+Visit the new museum.
+Print the pictures.
+fix the floor.
+Buy grocery.
+
